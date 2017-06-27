@@ -1,0 +1,10 @@
+@font-face {
+font-family: Transatlantic Cruise Demo
+src: url(Transatlantic Cruise Demo.ttf);
+}
+
+body{ background-color: #9966ff
+}
+ h1{
+   font-family: "Transatlantic Cruise Demo"
+}
